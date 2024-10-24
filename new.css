@@ -132,12 +132,12 @@ body{background-image : url(https://images7.alphacoders.com/129/1296984.jpg);
 
     
     button{background-color:pink;
-     color: white;
+     color: Black;
      border-color:Black;
      margin-top: 250px;
           border-radius:60PX
           heigth:40px;
-          width:70px;
+          width:100px;
           margin-left:600px;}
 
      
