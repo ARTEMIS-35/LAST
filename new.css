@@ -133,12 +133,12 @@ body{background-image : url(https://images7.alphacoders.com/129/1296984.jpg);
     
     button{background-color:pink;
      color: white;
-     border-color:pink;
+     border-color:Black;
      margin-top: 200px;
-          border-radius:30PX
+          border-radius:60PX
           heigth:40px;
           width:40px;
-          margin-left:400px;}
+          margin-left:100px;}
 
      
     zar{margin: 0;
